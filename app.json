@@ -1,0 +1,48 @@
+{
+    "name": "Crypto Stats",
+    "description": "Telegram crypto stats bot",
+    "logo": "fotoğraf linki",
+    "keywords": [
+        "Telegram Bot",
+        "Crypto Stats",
+    ],
+    "repository": "repo linki",
+    "success_url": "istediğiniz bir link",
+    "image": "heroku/python",
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "env": {
+        "PORT": {
+            "description": "Değişken için açıklama..",
+            "value": "",
+            "required": true
+        },
+        "BOT_TOKEN": {
+            "description": "Değişken için açıklama.",
+            "value": "",
+            "required": true
+        },
+        "NEWS_TOKEN": {
+            "description": "Değişken için açıklama.",
+            "value": "",
+            "required": true
+        },
+        "CMC_TOKEN": {
+            "description": "Değişken için açıklama."
+            "value": "",
+            "required": true
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+        },
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
