@@ -1,13 +1,13 @@
 {
     "name": "Crypto Stats",
     "description": "Telegram crypto stats bot",
-    "logo": "fotoğraf linki",
+    "logo": "https://telegra.ph/file/d92458c5f05e8588b7dab.jpg",
     "keywords": [
         "Telegram Bot",
         "Crypto Stats",
     ],
-    "repository": "repo linki",
-    "success_url": "istediğiniz bir link",
+    "repository": "https://github.com/curseddragon7/31cekmesanat-62",
+    "success_url": "https://github.com/doktorceset/",
     "image": "heroku/python",
     "formation": {
         "worker": {
