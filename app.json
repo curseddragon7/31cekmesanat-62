@@ -1,48 +1,45 @@
 {
     "name": "Crypto Stats",
-    "description": "Telegram crypto stats bot.",
-    "logo": "https://telegra.ph/file/d92458c5f05e8588b7dab.jpg",
+    "logo": "https://telegra.ph//file/d2f2b4737cef2c2759fcc.jpg",
+    "description": "Telegram crypto stats bot",
     "keywords": [
-        "Telegram Bo",
-        "Crypto Stats",
+        "TelegramBo",
+        "CryptoStats"
     ],
     "repository": "https://github.com/curseddragon7/31cekmesanat-62",
-    "success_url": "https://github.com/doktorceset/",
-    "image": "heroku/python",
+    "website": "https://github.com/doktorceset/",
+    "env": {
+        "PORT ": {
+            "description": "A\u00e7\u0131klama ",
+            "required": "True",
+            "value": "True"
+        },
+        "BOT_TOKEN ": {
+            "description": "A\u00e7\u0131klama ",
+            "required": "True",
+            "value": "True"
+        },
+        "NEWS_TOKEN ": {
+            "description": "A\u00e7\u0131klama ",
+            "required": "True",
+            "value": "True"
+        },
+        "CMC_TOKEN ": {
+            "description": "A\u00e7\u0131klama ",
+            "required": "True",
+            "value": "True"
+        }
+    },
+    "stack": "container",
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
     "formation": {
         "worker": {
             "quantity": 1,
             "size": "free"
         }
-    },
-    "env": {
-        "PORT": {
-            "description": "Değişken için açıklama..",
-            "value": "",
-            "required": true
-        },
-        "BOT_TOKEN": {
-            "description": "Değişken için açıklama.",
-            "value": "",
-            "required": true
-        },
-        "NEWS_TOKEN": {
-            "description": "Değişken için açıklama.",
-            "value": "",
-            "required": true
-        },
-        "CMC_TOKEN": {
-            "description": "Değişken için açıklama",
-            "value": "",
-            "required": true
-        }
-    },
-    "buildpacks": [
-        {
-            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-        },
-        {
-            "url": "heroku/python"
-        }
-    ]
+    }
 }
