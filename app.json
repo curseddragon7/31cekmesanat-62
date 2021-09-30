@@ -18,22 +18,22 @@
     "env": {
         "PORT": {
             "description": "Değişken için açıklama..",
-            "value": "",
+            "value": "deneme",
             "required": true
         },
         "BOT_TOKEN": {
             "description": "Değişken için açıklama.",
-            "value": "",
+            "value": "deneme",
             "required": true
         },
         "NEWS_TOKEN": {
             "description": "Değişken için açıklama.",
-            "value": "",
+            "value": "deneme",
             "required": true
         },
         "CMC_TOKEN": {
             "description": "Değişken için açıklama."
-            "value": "",
+            "value": "deneme",
             "required": true
         }
     },
