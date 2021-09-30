@@ -35,11 +35,6 @@
             "required": true
         },
         "Değişken adı": {
-            "description": "Değişken için açıklama."
-            "value": "",
-            "required": true
-        },
-        "Değişken adı": {
             "description": "Değişken için açıklama",
             "value": "",
             "required": true
