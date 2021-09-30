@@ -1,10 +1,13 @@
 {
-    "name": "Crypto Stats",
-    "description": "Telegram crypto stats bot",
+    "name": "istediğiniz bir ad",
+    "description": "Açıklama.",
     "logo": "fotoğraf linki",
     "keywords": [
-        "Telegram Bot",
-        "Crypto Stats",
+        "anahtar kelime",
+        "anahtar kelime",
+        "anahtar kelime",
+        "anahtar kelime",
+        "anahtar kelime"
     ],
     "repository": "repo linki",
     "success_url": "istediğiniz bir link",
@@ -16,23 +19,28 @@
         }
     },
     "env": {
-        "PORT": {
+        "Değişken adı": {
             "description": "Değişken için açıklama..",
             "value": "",
             "required": true
         },
-        "BOT_TOKEN": {
+        "Değişken adı": {
             "description": "Değişken için açıklama.",
             "value": "",
             "required": true
         },
-        "NEWS_TOKEN": {
+        "Değişken adı": {
             "description": "Değişken için açıklama.",
             "value": "",
             "required": true
         },
-        "CMC_TOKEN": {
+        "Değişken adı": {
             "description": "Değişken için açıklama."
+            "value": "",
+            "required": true
+        },
+        "Değişken adı": {
+            "description": "Değişken için açıklama",
             "value": "",
             "required": true
         }
