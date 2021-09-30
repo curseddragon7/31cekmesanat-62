@@ -1,13 +1,13 @@
 {
     "name": "Crypto Stats",
     "description": "Telegram crypto stats bot",
-    "logo": "https://telegra.ph/file/d92458c5f05e8588b7dab.jpg",
+    "logo": "fotoğraf linki",
     "keywords": [
-        "Telegram Bots",
+        "Telegram Bot",
         "Crypto Stats",
     ],
-    "repository": "https://github.com/curseddragon7/31cekmesanat-62",
-    "success_url": "https://github.com/doktorceset/",
+    "repository": "repo linki",
+    "success_url": "istediğiniz bir link",
     "image": "heroku/python",
     "formation": {
         "worker": {
@@ -18,22 +18,22 @@
     "env": {
         "PORT": {
             "description": "Değişken için açıklama..",
-            "value": "deneme",
+            "value": "",
             "required": true
         },
         "BOT_TOKEN": {
             "description": "Değişken için açıklama.",
-            "value": "deneme",
+            "value": "",
             "required": true
         },
         "NEWS_TOKEN": {
             "description": "Değişken için açıklama.",
-            "value": "deneme",
+            "value": "",
             "required": true
         },
         "CMC_TOKEN": {
             "description": "Değişken için açıklama."
-            "value": "deneme",
+            "value": "",
             "required": true
         }
     },
