@@ -1,15 +1,12 @@
 {
-    "name": "istediğiniz bir ad",
-    "description": "Açıklama.",
-    "logo": "fotoğraf linki",
+    "name": "Crypto Stats",
+    "description": "Telegram crypto stats bot.",
+    "logo": "https://telegra.ph/file/d92458c5f05e8588b7dab.jpg",
     "keywords": [
-        "anahtar kelime",
-        "anahtar kelime",
-        "anahtar kelime",
-        "anahtar kelime",
-        "anahtar kelime"
+        "Telegram Bo",
+        "Crypto Stats",
     ],
-    "repository": "repo linki",
+    "repository": "github.cocurseddragon7/31cekmesanat-62m",
     "success_url": "istediğiniz bir link",
     "image": "heroku/python",
     "formation": {
